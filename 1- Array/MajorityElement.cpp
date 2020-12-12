@@ -36,8 +36,6 @@ int findMajority(int arr[], int n)
 	return res;
 }
 
-
-
 int main() {
 	
      int arr[] = {6, 8, 4, 8, 8}, n = 5;
