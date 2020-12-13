@@ -15,7 +15,6 @@ void printGroups(int arr[], int n)
                 cout << i - 1 << endl;
 		}
 	}
-
 	if(arr[n - 1] != arr[0])
         cout << n - 1 << endl;
 }
