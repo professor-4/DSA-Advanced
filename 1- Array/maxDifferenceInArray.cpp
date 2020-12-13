@@ -20,4 +20,5 @@ int main(){
 	int n = sizeof(arr)/sizeof(arr[0]);
 	cout<<"Maximum Difference is : "<<maxDiff(arr,n)<<endl;	
 	
+	
 }
