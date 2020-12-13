@@ -21,8 +21,6 @@ void printFreq(int arr[], int n)
 		freq = 1;
 	}
 }
-
-
 int main() {
 	
       int arr[] = {10, 10, 20, 30, 30, 30}, n = 6;
