@@ -13,7 +13,6 @@ int indexMax(int *arr){
  }
  return index;
 }
-
 int main(){
 int arr[5]= {1,5,4,6,2};
 cout<<"Index of Maximum number is : "<<indexMax(arr);
